@@ -61,13 +61,6 @@ To solve a supply chain problem by automating data migration from email to datab
 
 ---
 
-## 📌 Credits
 
-Thanks to [@codebasics](https://www.codebasics.io/) for this guided project and learning experience!
 
----
-
-## 📬 Let’s Connect
-
-If you're working on similar projects or exploring AI + automation in data workflows, feel free to connect with me on [LinkedIn](https://linkedin.com).
 
