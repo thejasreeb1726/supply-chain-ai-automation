@@ -1,6 +1,6 @@
 # 🧠 n8n + Quadratic | Supply Chain Automation & Analysis
 
-This project is part of the **Codebasics "AI Tools for Data Analysis"** series, where I built a real-time **data automation pipeline** and **business insights dashboard** using **n8n** and **Quadratic** (an AI-powered spreadsheet).
+This project is part of the "AI Tools for Data Analysis"** series, where I built a real-time **data automation pipeline** and **business insights dashboard** using **n8n** and **Quadratic** (an AI-powered spreadsheet).
 
 ---
 
