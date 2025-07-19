@@ -59,7 +59,7 @@ To solve a supply chain problem by automating data migration from email to datab
 - Leveraging **AI-powered analysis** to make informed business decisions
 - Hands-on experience in the **Supply Chain domain**
 
----
+
 
 
 
